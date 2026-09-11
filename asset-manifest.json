@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/svs-billing-app/static/js/main.e6fd26dd.js",
+    "index.html": "/svs-billing-app/index.html",
+    "main.e6fd26dd.js.map": "/svs-billing-app/static/js/main.e6fd26dd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e6fd26dd.js"
+  ]
+}
